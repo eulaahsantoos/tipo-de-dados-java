@@ -1,0 +1,10 @@
+public class EstruturaDeRepeticao
+
+public static void main(string[] args){
+
+    int cc = 0;
+    while (cc<4){
+        system.out.println("teste" + (cc+));
+        cc++;
+    }
+}
